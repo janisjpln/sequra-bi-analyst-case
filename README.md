@@ -6,7 +6,7 @@ The case is divided into two main sections:
 1. **SQL Exercises** → Queries to answer specific business questions.
 2. **Business Analysis & Recommendations** → Executive report with insights, recommendations, KPIs, and a Gantt implementation plan.
 
-All interactive visualizations supporting this report are available in Tableau: [**View Dashboard**]((https://public.tableau.com/app/profile/.janiscaler93/viz/Challenge_17547380028760/Dashboard1))
+All interactive visualizations supporting this report are available in Tableau: [**View Dashboard**](https://public.tableau.com/app/profile/.janiscaler93/viz/Challenge_17547380028760/Dashboard1)
 
 ---
 
