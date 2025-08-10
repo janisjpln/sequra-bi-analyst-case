@@ -91,8 +91,7 @@ Queries are stored in `/sql/` and documented with:
   - Suggested KPIs for tracking.  
   - Follow-up analysis proposals.  
 
-💡 *All charts supporting this report are available in the interactive Tableau Dashboard:*  
-[**View Tableau Dashboard**]((https://public.tableau.com/app/profile/.janiscaler93/viz/Challenge_17547380028760/Dashboard1))
+💡 All interactive visualizations supporting this report are available in Tableau: [**View Dashboard**](https://public.tableau.com/app/profile/.janiscaler93/viz/Challenge_17547380028760/Dashboard1)
 
 ---
 
