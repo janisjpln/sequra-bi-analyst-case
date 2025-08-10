@@ -74,11 +74,11 @@ Queries are stored in `/sql/` and documented with:
 
 | Query | Description | SQL File | Results (CSV) |
 |-------|-------------|----------|---------------|
-| Q1.1  | Countries with more than 3 customers, including customer count and average age. | [q1_1_customers_by_country.sql](./:sql/q1_1_customers_by_country.sql) | [Download CSV](./results/q1_1_customers_by_country.csv) |
-| Q1.2  | Monthly ticket value trend for 2024 with month-over-month growth percentage. | [q1_2_monthly_ticket_trend.sql](./sql/q1_2_monthly_ticket_trend.sql) | [Download CSV](./results/q1_2_monthly_ticket_trend.csv) |
-| Q2.1  | App engagement by platform (iOS vs Android) during H2 2024. | [q2_1_engagement_by_platform.sql](./sql/q2_1_engagement_by_platform.sql) | [Download CSV](./results/q2_1_engagement_by_platform.csv) |
-| Q2.2  | Relationship between payment management usage and shopping portal engagement. | [q2_2_payment_vs_shopping.sql](./sql/q2_2_payment_vs_shopping.sql) | [Download CSV](./results/q2_2_payment_vs_portal.csv) |
-| Extra | Theoretical in-app purchase funnel. | [qx_in_app_shopping_funnel.sql](./sql/qx_in_app_shopping_funnel.sql) | [Download CSV](./results/qx_in_app_shopping_funnel.csv) |
+| Q1.1  | Countries with more than 3 customers, including customer count and average age. | [q1_1_customers_by_country.sql](./:sql/q1_1_customers_by_country.sql) | [Download CSV](./:results/q1_1_customers_by_country.csv) |
+| Q1.2  | Monthly ticket value trend for 2024 with month-over-month growth percentage. | [q1_2_monthly_ticket_trend.sql](./:sql/q1_2_monthly_ticket_trend.sql) | [Download CSV](./:results/q1_2_monthly_ticket_trend.csv) |
+| Q2.1  | App engagement by platform (iOS vs Android) during H2 2024. | [q2_1_engagement_by_platform.sql](./:sql/q2_1_engagement_by_platform.sql) | [Download CSV](./:results/q2_1_engagement_by_platform.csv) |
+| Q2.2  | Relationship between payment management usage and shopping portal engagement. | [q2_2_payment_vs_shopping.sql](./:sql/q2_2_payment_vs_shopping.sql) | [Download CSV](./:results/q2_2_payment_vs_portal.csv) |
+| Extra | Theoretical in-app purchase funnel. | [qx_in_app_shopping_funnel.sql](./:sql/qx_in_app_shopping_funnel.sql) | [Download CSV](./:results/qx_in_app_shopping_funnel.csv) |
 
 
 ---
